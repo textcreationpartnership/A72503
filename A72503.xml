@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The trueth of the most wicked and secret murthering of Iohn Brewen, goldsmith of London committed by his owne wife, through the prouocation of one Iohn Parker whom she loued: for which fact she was burned, and he hanged in Smithfield, on wednesday, the 28 of Iune, 1592. two yeares after the murther was committed.</title>
+            <author>Kyd, Thomas, 1558-1594.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1592</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72503</idno>
+            <idno type="STC">STC 15095</idno>
+            <idno type="STC">ESTC S124910</idno>
+            <idno type="EEBO-CITATION">99900462</idno>
+            <idno type="PROQUEST">99900462</idno>
+            <idno type="VID">173247</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72503)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173247)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2025:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The trueth of the most wicked and secret murthering of Iohn Brewen, goldsmith of London committed by his owne wife, through the prouocation of one Iohn Parker whom she loued: for which fact she was burned, and he hanged in Smithfield, on wednesday, the 28 of Iune, 1592. two yeares after the murther was committed.</title>
+                  <author>Kyd, Thomas, 1558-1594.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[T. Orwin?] for Iohn Kid, and are to be sold by Edward White, dwelling at the little north doore of Paules, at the signe of the Gun,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1592.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Not by Thomas Kyd. -- STC.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Reproduction of original in the Lambeth Palace Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brewen, John, d. 1590 --  Early works to 1800.</term>
+               <term>Criminal behavior --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173247:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <p>The trueth of the moſt wicked and ſecret <hi>murthering of Iohn Brewen, Goldſmith of</hi> London, committed by his owne wife, through the prouocation of one Iohn Parker <hi>whom ſhe loued: for which fact ſhe was burned,</hi> and he hanged in Smithfield, on wedneſ<g ref="char:EOLhyphen"/>day, the 28 of Iune, 1592. two yeares af<g ref="char:EOLhyphen"/>ter the murther was committed.</p>
+            <figure/>
+            <p>Imprinted at London for Iohn Kid, and are to be ſold by Edward White, dwelling at the little North doore of Paules, at the ſigne of the Gun. 1592. <add>Tho<g ref="char:cmbAbbrStroke">̄</g> Kyde</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:173247:2"/>
+            <!-- PDF PAGE 11 -->
+            <pb facs="tcp:173247:2"/>
+            <!-- PDF PAGE 11 -->
+            <head>
+               <g ref="char:leaf">❧</g> The murder of Iohn Brewen Gold<g ref="char:EOLhyphen"/>ſmith <hi>of London, who through the entiſe<g ref="char:EOLhyphen"/>ment</hi> of Iohn Parker, was poyſoned of his owne <hi>wife in eating a meaſſe of Sugerſops.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>Ow hatefull a thing the ſinne of murder hath béene before the ſight of the eternall God, the holy Scriptures doe manifeſt, yet from the beginning we may euidently ſee how buſie the diuell hath beene to pro<g ref="char:EOLhyphen"/>uoke men thereunto, in ſo much that when there was but two brethren liuing in the world, the onelye ſonnes of the firſt man Adam; hée prouoked the one moſt vnnatu<g ref="char:EOLhyphen"/>rally to murther the other. And albeit there was none in the world to accuſe <hi>Caine</hi> for ſo fowle a fact, ſo that in his owne con<g ref="char:EOLhyphen"/>ceit hee might haue walked ſecurely and without blame, yet the blood of the iuſt Abel cried moſt ſhrill in the eares of the righteous God for vengeance &amp; reuenge on the murderer. The Lord there<g ref="char:EOLhyphen"/>fore ordayned a Lawe that the cruel &amp; vniuſt blood-ſheader ſhould haue his blood iuſtly ſhed again: of which law, although no man is ignorant, and that we ſée it put in execution daylie before our eyes, yet doth the Diuell ſo worke in the hearts of a number, that with<g ref="char:EOLhyphen"/>out reſpect either of the feare of God, or extreame puniſhment in this world they doe notwithſtanding committe moſt haynous and grieuous offences to the great hazard of their ſoules, and the de<g ref="char:EOLhyphen"/>ſtructions of their bodies on earth, onely through Sathans ſug<g ref="char:EOLhyphen"/>geſtions, as by this example following may euidently be proued.</p>
+            <p>There was of late dwelling in London a proper yong woman named Anne Welles, which for her fauour and comely perſonage, as alſo in regard of her good behauiour and other commendable qualities, was beloued of diuers young men, eſpecially of two Goldſmithes, which were Batchelers, of good friends, and well eſtéemed for fine workmanſhip in their trade: The one of them was called <hi>Iohn Brewen,</hi> and the other <hi>Iohn Parker,</hi> who although hee was better beloued, yet leaſt deſerued it (<g ref="char:punc">▪</g>as the ſequell hereafter will ſhewe) But as the trueſt louers are commonly leaſt regarded, and the plaine meaning man moſt ſcorned of vn<g ref="char:EOLhyphen"/>diſcréet
+<pb n="2" facs="tcp:173247:3"/>
+               <!-- PDF PAGE 12 -->maidens, ſo came it to paſſe by <hi>Brewen,</hi> who notwithſtan<g ref="char:EOLhyphen"/>ding his long and earneſt ſuite, the gifts and fauours which ſhe re<g ref="char:EOLhyphen"/>ceiued was ſtill diſdained and caſt off, albeit he had the good will &amp; fauour of al her friends &amp; kinſfolk: but no man was ſo high in her books as <hi>Parker:</hi> he had her fauours whoſoeuer had her frowns: he ſate and ſmiled, when others ſobbed, and tryumphant in the teares of the diſpoſſeſſed. It came to paſſe that this nice maiden had vpon a promiſe betweene them, receaued of <hi>Brewen</hi> both golde and iew<g ref="char:EOLhyphen"/>els, which he willingly beſtowed vpon her, eſtéeming her the mi<g ref="char:EOLhyphen"/>ſtris and commaundres of his life, but when he ſaw his ſuite deſpi<g ref="char:EOLhyphen"/>ſed, and his good will nothing regarded, and ſéeing no hope of her good will and fauour, he determined, that ſéeing his ſuite tooke no effect, to demaund his golde and iewels againe. And vpon a time comming vnto her, requeſted that he might haue his gifts againe, to whom diſdainfully ſhe made anſwere that he ſhould ſtay for it: and the young man hauing béen thus driuen off longer than hee thought good of, made no more adoe but areſted her for the iewels.</p>
+            <p>The ſtout damſel that had neuer before béen in the like daun<g ref="char:EOLhyphen"/>ger, was ſo aſtoniſhed &amp; diſmayed, that ſhe concluded on condition he would let his Action fal, &amp; not to think euer the worſe of her af<g ref="char:EOLhyphen"/>terward, to marrie him by a certain day, &amp; to make him her huſha<g ref="char:cmbAbbrStroke">̄</g>d: And this before good witnes ſhe vowed to performe. <hi>Brewen</hi> was hereof very ioyfull and releaſed his priſoner on his owne perill be<g ref="char:EOLhyphen"/>ing not a little glad of his good ſucceſſe. And thereupon ſo ſoone as might be, made preparation for their mariage, albeit it proued the worſt bargain that euer he made in his life. Now when <hi>Parker</hi> vn<g ref="char:EOLhyphen"/>derſtoode of this thing, he was moſt grieuouſly vexed, and as one hauing déepe intreſt to the poſſeſſion of her perſon, ſtormed moſt outragiouſly, and with bitter ſpéeches ſo taunted and checkt her, that ſhe repented the promiſed ſhe made to <hi>Brewen,</hi> although ſhe could not any way amend it, neuertheleſſe it kindled ſuch a hatred in her heart againſt her new made choyce, that at length it turned to <hi>Brewens</hi> death &amp; deſtruction. And this accurſed <hi>Parker</hi> although he was not as then in eſtate to marrie (notwithſtanding he ere then had lien with her and gotten her with child) &amp; would neuer let her reſt, but continually vrged her to make him away by one meanes or other. Diuers and ſundry times had they talke together of that matter, and although ſhe often refuſed to work his death, yet at
+<pb n="3" facs="tcp:173247:3"/>
+               <!-- PDF PAGE 12 -->length the grace of GOD being taken from her, ſhe conſented by his direction to poyſon <hi>Brewen:</hi> after which deede done <hi>Parker,</hi> promiſed to marrie her ſo ſoone as poſſibly he could.</p>
+            <p>Now ſhe had not béen maried to <hi>Brewen</hi> aboue thrée dayes whe<g ref="char:cmbAbbrStroke">̄</g> ſhe put in practiſe to poyſon him. And although the honeſt young man loued hir tenderly, yet had ſhe conceiued ſuch deadly hatred a<g ref="char:EOLhyphen"/>gainſt him, that ſhe lay not with him after the firſt night of her ma<g ref="char:EOLhyphen"/>riage, neither could ſhe abide to be called after his name but ſtill to be termed <hi>Anne Welles</hi> as ſhe was before: And to excuſe her from his bed, ſhe ſayd ſhe had vowed neuer to lie by him more till he had gotten her a better houſe. And the more to ſhadow her trecherie &amp; to ſhew the diſcontent ſhe had of his dwelling ſhe lodged neuer a night but the firſt in his houſe, but prouided her a lodging neere to the place where this graceles <hi>Parker</hi> dwelt. By this meanes the villaine had frée acceſſe to practiſe with her about the murther, who was ſo importunate and haſtie to haue it done that the wedneſday after ſhe was married ſhe wickedly went to effect it, euen accor<g ref="char:EOLhyphen"/>ding as <hi>Parker</hi> had before giuen direction: which was in this ſorte. The varlet had bought a ſtrong deadly poyſon, whoſe working was to make ſpéedy haſte to the heart without any ſwelling of the body or other ſigne of outward confection. This poyſon the wic<g ref="char:EOLhyphen"/>ked woman ſecretly caried with her to her huſbands houſe, with a mery pleaſaunt countenance, and very kindly ſhee aſked her huſ<g ref="char:EOLhyphen"/>band how he did, giuing him the good morrow in moſt courteous manner, and aſked if he would haue that colde morning, a meaſſe of ſuger ſoppes, (for it was the wéeke before ſhrouetide) I mary with a good will wife (quoth he) and I take it verie kindly that you will doe ſo much for me, alas huſband (quoth ſhe) if I could not find in my heart to doe ſo ſmall a matter for you (eſpecially being ſo lately married) you might iuſtly iudge me vnkinde, And therwith<g ref="char:EOLhyphen"/>all went to make ready his laſt meat, the thing being done, ſhée powred out a meaſſe for him, and ſtrewed ſecretly therein part of the poyſon, and hauing ſet the porringer downe beſide her while ſhe put the poſnet on the fire againe, with her riſing vp from the fire, her coat caſt downe that meaſſe which for her huſband ſhe had prepared, out alas quoth ſhe, I haue ſpilt a meaſſe of as good ſu<g ref="char:EOLhyphen"/>gar ſops as euer I made in my life. Why, quoth her huſband, is there no more? Yes, quoth ſhe, that there is, two, as good as they
+<pb n="4" facs="tcp:173247:4"/>
+               <!-- PDF PAGE 13 -->or I will make them as good, but it gréenes me that any good thing ſhould ſo vnluckily be caſt away. What woman quoth he? vex not at the matter, your ill lucke goe with them: mary Amen, quoth ſhe, ſpeaking God knowes with a wicked thought, though the well meaning man thought on no euill.</p>
+            <p>But I pray you <hi>Iohn</hi> (ſaid ſhe) ſhall I intreate you to fetch mee a penny worth of red herrings, for I haue an earneſt deſire to eate ſome, that I will quoth he with a good will. This ſiy ſhift ſhe de<g ref="char:EOLhyphen"/>uiſed to haue his abſence, that ſhe might the better performe hir wicked intent, and by the time he came againe ſhe had made ready a meſſe of ſuger ſops for him, one for her ſelfe, and another for a lit<g ref="char:EOLhyphen"/>tle boye which ſhe brought with her, but her huſbands ſhe had poy<g ref="char:EOLhyphen"/>ſoned as before: when he was come, ſhe gaue her huſband his meſſe, and ſhe and the childe fell alſo to eating of theirs. Within a pretty while after hee had eaten his, hee began to waxe very ill about the ſtomack, feeling alſo a grieuous griping of his inward partes, wherupon he tould his wife he felt himſelfe not well, how ſo quoth ſhe you were well before you went forth, were you not? yes indéed was I ſaid he, then he demaunded if ſhe were well, ſhe anſwered I: ſo likewiſe ſaid the childe. Ah quoth her huſband, now I feele my ſelfe ſicke at the very heart: and immediatlie after he began to vo<g ref="char:EOLhyphen"/>met exceedingly, with ſuch ſtraines as if his lungs would burſt in péeces, then he requeſted her to haue him to bed, neuer myſtruſting the trecherie wrought againſt him. Now when it drew ſomewhat late, ſhe tould her huſband ſhe muſt néeds goe home to her lodging, and when he requeſted her to ſtay with him, ſhe ſaid ſhe could not nor would not: And ſo vnnaturally left the poyſoned man all alone that whole night longe, without either comfort or companie. All that night was he extreame ſicke, worſe and worſe, neuer ceaſing vomiting til his intrailes were all ſhrunke and broken within him (as is ſince ſuppoſed.) The next morning ſhe came to him againe, hauing béen once or twice ſent for, but made little ſemblance of for<g ref="char:EOLhyphen"/>row, and when he quibd her with vnkindnes, for not ſtaying with him one night, ſhe aſked him if he would haue her forſworne, did I not quoth ſhe ſweare I would not ſtay in the houſe one night, till you had gotten another: well <hi>Anne</hi> quoth hee, ſtay with mee now, for I am not long to continue in this world, now God forbid quoth ſhe) and with that ſhe made a ſhewe of great heauines and ſorrow,
+<pb n="5" facs="tcp:173247:4"/>
+               <!-- PDF PAGE 13 -->and then made him a caudle with ſuger and other ſpices, and ſo on the thurſday, immediatly after he had eaten it he dyed, &amp; on the Fri<g ref="char:EOLhyphen"/>day he was buried. No perſon as then ſuſpecting any manner of e<g ref="char:EOLhyphen"/>uil done to him by his wife, but eſteemed her a very honeſt woman, although through her youth, ſhe knew not as then how to behaue herſelfe to her huſband ſo kindely as ſhe ought, which they imputed to her ignorance, rather then to any mallice conceaued againſt her huſband. Now you ſhall vnderſtand that within a ſmall ſpace after her huſband was dead, ſhe was knowne with child, and ſafely deliuered: euery neighbour thinking it had béen her huſbands, al<g ref="char:EOLhyphen"/>though ſhe ſince confeſſed it was not, but that child liued not long but dyed.</p>
+            <p>The murder lying thus vneſpyed, who was ſo luſty as <hi>Parker</hi> with the Widdow, being a continuall reſorter to her houſe, whoſe welcome was anſwerable to his deſier. And ſo bould in the end he grew with her, that ſhe durſt not denie him any thing he requeſted, and became ſo ielious, that had ſhée lookt but merely vpon a man, ſhe ſhould haue knowne the price thereof, and haue bought her me<g ref="char:EOLhyphen"/>rement déerely. And yet was he not married vnto her, yea to ſuch ſlauerie and ſubiection did he bring her, that ſhe muſt runne or goe whereſoeuer he pleaſed to appoint her, held hee vp but his finger at any time, if ſhe denied him either money or whatſoeuer elſe he lifted to requeſt, he would ſo haule and pull her, as was pittie to behold, yea and threaten to ſtabbe and thruſt her through with his dagger, did ſhe not as he would haue her in all things, ſo that he had her at commandement whenſoeuer hée would, and yet could ſhée ſcant pleaſe him with her diligence. In this miſerable caſe hée kept her vnmarried for the ſpace of two yeares after her huſband was dead, at length he got her with child againe, which when the woman knew, ſhe was carefull for the ſauing of her credit to kéepe it vn<g ref="char:EOLhyphen"/>ſpied ſo long as ſhe could, in ſo much that ſhe would not goe forth of her doores for feare her neighbours ſhould perceaue her great bellie. In the meane ſpace <hi>Parker</hi> comming vnto her, ſhe was vp<g ref="char:EOLhyphen"/>on one day aboue the reſt moſt earneſt with him to marrie her. You ſée (quoth ſhée) in what caſe I am, and if you wil not for your owne credit, yet for my credits ſake marrie me, and ſuffer mée not to be a poynting marke for others, and a ſhame among my neigh<g ref="char:EOLhyphen"/>bours. The varlet hearing the great mone ſhee made vnto him
+<pb n="6" facs="tcp:173247:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 14 -->was nothing moued therewith, but churliſhly anſwered, ſhee ſhould not appoint him when to marrie, but if I were ſo minded (quoth he) I would be twice aduiſed how I did wed with ſuch a ſtrumpet as thy ſelfe, and then reuiled her moſt ſhamefully: where<g ref="char:EOLhyphen"/>unto ſhée anſwered ſhée had neuer béen ſtrumpet but for him, and wo worth thée (quoth ſhe) that euer I knewe thée, it is thou and no man elſe that can triumph in my ſpoyle, and yet now thou reſu<g ref="char:EOLhyphen"/>ſeſt to make amends for thy fault: my loue to thée thou haſt ſuffici<g ref="char:EOLhyphen"/>ently tried, although I neuer found any by thée. Out arrant queane (quoth he) thou wouldſt marry me to the end thou mighteſt poyſon me as thou didſt thy huſband, but for that cauſe I meane to kéepe me as long out of thy fingers as I can, and accurſt be I if I truſt thée or hazard my life in thy hands: why thou arrant beaſt (quoth ſhee) what did I then, which thou didſt not prouoke me to doo, if my huſband were poyſoned, thou knoweſt (ſhameles as thou art) it had neuer béen done but for thée, thou gaueſt me the poyſon, and after thy direction I did miniſter it vnto him, and woe is mée, it was for thy ſake I did ſo curſed a déede. Theſe ſpéeches thus ſpoken bet wéene them in vehemencie of ſpirite, was ouer heard of ſome that reuealed it to the maieſtrates, whereupon the woman was carried before Alderman <hi>Haward</hi> to be examined, &amp; the man before Iuſtice <hi>Younge,</hi> who ſtoode in the denial therof very ſtout<g ref="char:EOLhyphen"/>ly, neither would the woman confeſſe any thing, till in the ende ſhée was made to beléeue that <hi>Parker</hi> had bewrayed the matter, whereupon ſhe co<g ref="char:cmbAbbrStroke">̄</g>feſſed the fact in order, as I haue declared. Then was ſhe carried into the countrey to be deliuered of her childe, and after brought back to priſon. And then ſhée and <hi>Parker</hi> were both araigned and condemned for the murder at the ſeſſions hall nere newgate, and the woman had iudgement to be burned in Smyth<g ref="char:EOLhyphen"/>field, and the man to bée hanged in the ſame place before her eyes. This was accordingly performed, and they were executed on we<g ref="char:EOLhyphen"/>denſday laſt, being the <hi>28.</hi> of Iune <hi>1592.</hi> two yeares and a halfe after the murder was committed. The Lord giue all men grace by their example to ſhunne the hatefull ſinne of murder, for be it kept neuer ſo cloſe and done neuer ſo ſecret, yet at length the Lorde will bring it out, for bloud is an vnceaſſant crier in the eares of the Lord and he will not leaue ſo vilde a thing vnpuniſhed.</p>
+            <trailer>FINIS.<lb/> 
+               <add>Tho. Kydde.</add>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
